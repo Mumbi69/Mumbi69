@@ -1,6 +1,6 @@
 ### Heyy. Welcome! 👋
 ![](https://komarev.com/ghpvc/?username=Mumbi69)
-[![wakatime](https://wakatime.com/badge/user/914db0e9-c577-4429-87dd-e1380f3846fa.svg)](https://wakatime.com/@914db0e9-c577-4429-87dd-e1380f3846fa)
+[![wakatime](https://wakatime.com/badge/user/914db0e9-c577-4429-87dd-e1380f3846fa.svg)](https://wakatime.com/dashboard)
 <!-- <a href="#" width="20%"> -->
 
 <!--
