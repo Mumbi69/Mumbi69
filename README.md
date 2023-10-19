@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning how to build a python-trained chatbot using TensorFlow, nltk and numpy.
 - 😄 Pronouns: She/Her
-- 📫 How to reach me: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iammumbi__?igshid=OGQ5ZDc2ODk2ZA==) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winfred-mumbi-7aa16a235) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mumbi_Win)
+- 📫 How to reach me: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iammumbi__?igshid=OGQ5ZDc2ODk2ZA==) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/winfredmumbi/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mumbi_Win)
 - ⚡ Fun fact: Despite being an introvert who prefers the quiet of nature, this tech-savvy football enthusiast's spirit animal is a lion, roaring with passion for both the gridiron and the great outdoors.
 
 <a href="" ><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
